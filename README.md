@@ -1,5 +1,6 @@
 # Software_engineering
 Empty project for trainining git
+
 ## Tabulka
 | Left columns  | Right columns |
 | ------------- |:-------------:|
